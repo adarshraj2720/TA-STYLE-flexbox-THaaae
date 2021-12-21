@@ -1,11 +1,17 @@
-header,article,.gallery-section{
+header , .gallery-section{
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
-.width-50{
-    width: 50%;
+article{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
+.width-50{
+    width: 30%;
+}
+
 .gallery-section{
     margin: 20px 0px;
 }
