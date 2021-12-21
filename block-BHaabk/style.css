@@ -9,3 +9,14 @@ header,article,.gallery-section{
 .gallery-section{
     margin: 20px 0px;
 }
+footer{
+    background-color: navy;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0px;
+}
+.icon{
+    color: white;
+    margin: 0px 10px;
+
+}
