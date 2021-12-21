@@ -1,0 +1,28 @@
+header , .gallery-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+article{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.width-50{
+    width: 30%;
+}
+
+.gallery-section{
+    margin: 20px 0px;
+}
+footer{
+    background-color: navy;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0px;
+}
+.icon{
+    color: white;
+    margin: 0px 10px;
+
+}
